@@ -1,0 +1,13 @@
+.vscode
+
+env
+venv
+
+build
+dbs
+eggs
+logs
+*.egg*
+
+__pycache__
+*.pyc
