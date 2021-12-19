@@ -1,13 +1,20 @@
+# IDE
 .vscode
 
+# venv
 env
 venv
 
+# builds / eggs / logs
 build
 dbs
 eggs
 logs
 *.egg*
 
+# python caches
 __pycache__
 *.pyc
+
+# databases
+db.*
