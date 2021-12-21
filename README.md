@@ -23,3 +23,13 @@ An Approach to use a scrapy spiders as an independent web service with django an
 
 > [-] => These needs to run in background / separate terminal. Or they can be daemonized to run in background
  as a separate system service.
+
+# GUI
+
+> JOBS
+
+![Jobs](./preview/1.png)
+
+> Runing / Scheduling Spider
+
+![Jobs](./preview/2.png)
