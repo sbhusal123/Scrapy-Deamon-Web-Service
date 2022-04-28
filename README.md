@@ -9,7 +9,7 @@ An Approach to use a scrapy spiders as an independent web service with django an
 
 # Installation
 - **Install python packages:** ``pip install -r requirements.txt``
-- **Install Rabbitmq** ``sudo apt-get install rabbitmq-server``
+- **Install Rabbitmq** ``sudo apt-get install rabbitmq-server`` or ``docker run --name rabbitmq -p 5672:5672 rabbitmq``
 - **Install Splash:** ``sudo docker run -it -p 8050:8050 --rm scrapinghub/splash``
 
 # Runing spider
