@@ -17,7 +17,7 @@ An Approach to use a scrapy spiders as an independent web service with django an
 # Runing spider
 - **Install python packages:** ``pip install -r requirements.txt``
 - **Migrate Databse:** ``python itemsbackend/manage.py migrate``
-- **Start Django Consumer[-]** ``python itemsbackend/manage.py consumer.py``
+- **Start Django Consumer[-]** ``cd itemsbackend && python consumer.py``
 - **Start scrapy deamon[-]** ``cd darazcrawler && scrapyd``
 - **Web Interface[-]** ``cd darazcrawler && scrapydweb``. Default username and password `surya`
 - **Deploy the default spider to deamon:** ``cd darazcrawler && scrapyd-deploy default``
