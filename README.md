@@ -1,3 +1,5 @@
+- **Python Version:** ``Python 3.8.10``
+
 # Scrapy Deamon Web Service
 An Approach to use a scrapy spiders as an independent web service with django and rabbitmq as a message broker
 
